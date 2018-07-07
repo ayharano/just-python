@@ -6,6 +6,7 @@
 
 # Slides sobre o projeto e sua motivação
 <!-- TODO: Slides sobre o projeto e sua motivação -->
+<!-- TODO: módulos importáveis: focar em usabilidade para quem for usar; fornecer documentação para quem quiser mais detalhes; prover mecanismos de testes para quem for contribuir em desenvolvimento -->
 ...
 
 
@@ -17,7 +18,6 @@ $ mkdir PROJETO
 $ cd PROJETO
 $ touch .gitignore
 $ echo '.venv'       >> .gitignore
-$ echo '.env'        >> .gitignore
 $ echo '*.py[doc]'   >> .gitignore
 $ echo '__pycache__' >> .gitignore
 $ git init
@@ -62,6 +62,7 @@ https://docs.python.org/3/library/venv.html
 
 # Slides sobre doctest
 <!-- TODO: Slides sobre doctest -->
+<!-- TODO: Comentar sobre diferenças entre doctest e unittest - documetaçaão para usuário do módulo, teste para desenvolver o módulo -->
 ...
 
 

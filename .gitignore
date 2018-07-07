@@ -1,0 +1,25 @@
+# Arquivos e diretórios relacionados a python a serem ignorados
+__pycache__
+.venv
+*.py[doc]
+__pycache__
+
+# Sufixos de arquivos a serem ignorados
+*.aux
+*.bbl
+*.blg
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.sw[po]
+*.vrb
+*~
+
+# Arquivos de sistema a serem ignorados
+.DS_Store
+.localized
+
+# Arquivos de configuração a serem ignorados
+.env

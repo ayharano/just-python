@@ -37,6 +37,9 @@ https://docs.python.org/3/library/venv.html
 
 # Slides sobre TDD
 <!-- TODO: Slides sobre TDD -->
+<!-- TODO: falar sobre ler bem os erros -->
+<!-- TODO: falar sobre abordagem bottom-up e top-down -->
+<!-- TODO: baby steps para construir base -->
 ...
 
 

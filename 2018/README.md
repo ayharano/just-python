@@ -1,20 +1,22 @@
-# **just-python/2018**
+just-python/2018
+================
 
-Recursos utilizados relacionados à edição 2018 do [Just Python](https://justpython.style/).
+Recursos utilizados relacionados à apresentação na edição 2018 do [Just Python](https://justpython.style/).
 
+------------------------------------------------------------------------
 
-## Palestra
+# Palestra
 *Do zero à publicação de um pacote de distribuição no [PyPI](https://pypi.org/)*
 
 
-## Evento
-### [[Just Python]](https://justpython.syle) São Paulo, 14 de Julho de 2018
-#### Local
+# Evento
+## [[Just Python]](https://justpython.syle) São Paulo, 14 de Julho de 2018
+### Local
 [Creditas](https://www.creditas.com.br/) - [Av. Eng. Luís Carlos Berrini, 105, São Paulo, SP, Brasil](https://www.openstreetmap.org/#map=17/-23.59830/-46.68982)
 
 
-## Autor
-### [Alexandre Harano](https://alexandre.harano.net.br/)
+# Autor
+## [Alexandre Harano](https://alexandre.harano.net.br/)
 - [@GitHub](https://github.com/ayharano)
 - [@Bitbucket](https://bitbucket.org/ayharano/)
 - [@GitLab](https://gitlab.com/ayharano)
@@ -23,61 +25,69 @@ Recursos utilizados relacionados à edição 2018 do [Just Python](https://justp
 - [@Twitter](https://twitter.com/ayharano)
 
 
-## Slides
-### [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+# Slides
+## [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 - [PDF](https://github.com/ayharano/just-python/blob/master/2018/slides/20180714_justpython_zero_pypi.pdf)
 - [@Speaker Deck](https://speakerdeck.com/ayharano/do-zero-a-publicacao-de-um-pacote-de-distribuicao-no-pypi)
 
 
-## Código
-### [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Código
+## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 -  [ayharano/pppipam](https://github.com/ayharano/pppipam)
 
 
-## Referências
-- [The Python Software Foundation](https://www.python.org/psf/)
-  - [@GitHub](https://github.com/python)
-  - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-  - [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
-  - [The Python Language Reference](https://docs.python.org/3/reference/index.html)
-  - [The Python Standard Library](https://docs.python.org/3/library/index.html)
-  - [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html)
-  - [unittest — Unit testing framework](https://docs.python.org/3/library/unittest.html)
-  - [pydoc — Documentation generator and online help system](https://docs.python.org/3/library/pydoc.html)
-  - [doctest — Test interactive Python examples](https://docs.python.org/3/library/doctest.html)
-  - [Exceptions](https://docs.python.org/3/reference/executionmodel.html#exceptions)
-  - [logging — Logging facility for Python](https://docs.python.org/3/library/logging.html)
-  - [ipaddress — IPv4/IPv6 manipulation library](https://docs.python.org/3/library/ipaddress.html)
+# Referências
+## [The Python Software Foundation](https://www.python.org/psf/)
+- [@GitHub](https://github.com/python)
+- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+- [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+- [PEP 484 -- Type Hints](https://www.python.org/dev/peps/pep-0484/)
+- [The Python Language Reference](https://docs.python.org/3/reference/index.html)
+- [The Python Standard Library](https://docs.python.org/3/library/index.html)
+- [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html)
+- [unittest — Unit testing framework](https://docs.python.org/3/library/unittest.html)
+- [Functions definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions)
+- [pydoc — Documentation generator and online help system](https://docs.python.org/3/library/pydoc.html)
+- [doctest — Test interactive Python examples](https://docs.python.org/3/library/doctest.html)
+- [Exceptions](https://docs.python.org/3/reference/executionmodel.html#exceptions)
+- [logging — Logging facility for Python](https://docs.python.org/3/library/logging.html)
+- [ipaddress — IPv4/IPv6 manipulation library](https://docs.python.org/3/library/ipaddress.html)
 
-- [Python Packaging Authority](https://www.pypa.io/)
-  - [@GitHub](https://github.com/pypa)
-  - [@BitBucket](https://bitbucket.org/pypa/)
-  - [Python Packaging User Guide](https://packaging.python.org/)
-  - [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
+## [Python Packaging Authority](https://www.pypa.io/)
+- [@GitHub](https://github.com/pypa)
+- [@BitBucket](https://bitbucket.org/pypa/)
+- [Python Packaging User Guide](https://packaging.python.org/)
+- [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
 
-- [Python Package Index](https://pypi.org/)
-  - [Classifiers](https://pypi.org/classifiers/)
-  - [Test Python Package Index](https://test.pypi.org/)
+## [Python Package Index](https://pypi.org/)
+- [Classifiers](https://pypi.org/classifiers/)
+- [Test Python Package Index](https://test.pypi.org/)
 
-- [Choose an open source license](https://choosealicense.com/)
+## [Choose an open source license](https://choosealicense.com/)
 
-- [Python 3 Module of the Week](https://pymotw.com/3/)
-  - [venv — Create Virtual Environments](https://pymotw.com/3/venv/index.html)
-  - [unittest — Automated Testing Framework](https://pymotw.com/3/unittest/index.html)
-  - [pydoc — Online Help for Modules](https://pymotw.com/3/pydoc/index.html)
-  - [doctest — Testing Through Documentation](https://pymotw.com/3/doctest/index.html)
-  - [logging — Report Status, Error, and Informational Messages](https://pymotw.com/3/logging/index.html)
+## [Python 3 Module of the Week](https://pymotw.com/3/)
+- [venv — Create Virtual Environments](https://pymotw.com/3/venv/index.html)
+- [unittest — Automated Testing Framework](https://pymotw.com/3/unittest/index.html)
+- [pydoc — Online Help for Modules](https://pymotw.com/3/pydoc/index.html)
+- [doctest — Testing Through Documentation](https://pymotw.com/3/doctest/index.html)
+- [logging — Report Status, Error, and Informational Messages](https://pymotw.com/3/logging/index.html)
 
-- [Simple Python Version Management: pyenv](https://github.com/pyenv/pyenv)
+## [Simple Python Version Management: pyenv](https://github.com/pyenv/pyenv)
 
-- [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
+## [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
 
-- [Poetry: Python packaging and dependency management made easy](https://poetry.eustace.io/)
+## [Poetry: Python packaging and dependency management made easy](https://poetry.eustace.io/)
 
-- [Cookiecutter: a command-line utility that creates projects from cookiecutters (project templates).](https://github.com/audreyr/cookiecutter)
+## [Cookiecutter: a command-line utility that creates projects from cookiecutters (project templates).](https://github.com/audreyr/cookiecutter)
 
-- [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
+## [PEP 8 — the Style Guide for Python Code](https://pep8.org/)
 
-- [black: The uncompromising code formatter](https://black.readthedocs.io/)
+## [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 
-- [pytest: helps you write better programs](https://docs.pytest.org/)
+## [black: The uncompromising code formatter](https://black.readthedocs.io/)
+
+## [Pylint: Star your Python code!](https://www.pylint.org/)
+
+## [Flake8: Your Tool For Style Guide Enforcement](http://flake8.pycqa.org/)
+
+## [pytest: helps you write better programs](https://docs.pytest.org/)

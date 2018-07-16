@@ -29,6 +29,14 @@ $ source ./.venv/bin/activate  # https://docs.python.org/3/library/venv.html
 
 # Slide sobre venv
 <!-- TODO: Mostrar tabelinha de ativação -->
+<!-- TODO:
+
+    Currently, there are two common tools for creating Python virtual environments:
+    venv is available by default in Python 3.3 and later, and installs pip and setuptools into created virtual environments in Python 3.4 and later.
+
+    https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments
+
+ -->
 <!-- TODO: Comentar que ao usar 3.4+ vem instalado com pip e setuptools -->
 https://docs.python.org/3/library/venv.html
 ...
@@ -81,6 +89,13 @@ https://docs.python.org/3/library/venv.html
 - https://docs.python.org/3/tutorial/modules.html#packages
 - https://packaging.python.org/tutorials/packaging-projects/
 ...
+- https://packaging.python.org/guides/distributing-packages-using-setuptools/
+- PyPA sample project: https://github.com/pypa/sampleproject
+<!--
+Note
+
+Projects using setuptools 0.6.27+ have standard readme files (README.rst, README.txt, or README) included in source distributions by default. The built-in distutils library adopts this behavior beginning in Python 3.7. Additionally, setuptools 36.4.0+ will include a README.md if found. If you are using setuptools, you don’t need to list your readme file in MANIFEST.in. Otherwise, include it to be explicit.
+-->
 
 
 

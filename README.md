@@ -6,4 +6,5 @@ Repositório contendo slides e outros possíveis recursos utilizados relacionado
 
 # Edições
 
-- [2018](2018/README.md)
+- [2018 (Just Python)](2018/README.md)
+- [2019 (Python Sul)](2019/README.md)

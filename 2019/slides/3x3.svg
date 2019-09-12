@@ -1,0 +1,17 @@
+<svg width="246" height="246" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="80" height="80" fill="none" stroke="black" stroke-width="1" />
+  <rect x="0" y="82" width="80" height="80" fill="none" stroke="black" stroke-width="1" />
+  <rect x="0" y="164" width="80" height="80" fill="none" stroke="black" stroke-width="1" />
+  <rect x="82" y="0" width="80" height="80" fill="none" stroke="black" stroke-width="1" />
+  <rect x="82" y="82" width="80" height="80" fill="none" stroke="black" stroke-width="1" />
+  <rect x="82" y="164" width="80" height="80" fill="none" stroke="black" stroke-width="1" />
+  <rect x="164" y="0" width="80" height="80" fill="none" stroke="black" stroke-width="1" />
+  <rect x="164" y="82" width="80" height="80" fill="none" stroke="black" stroke-width="1" />
+  <rect x="164" y="164" width="80" height="80" fill="none" stroke="black" stroke-width="1" />
+  <text x="15" y="38" stroke="black" font-family="Source Code Pro">(0, 0)</text>
+  <text x="15" y="118" stroke="black" font-family="Source Code Pro">(0, 1)</text>
+  <text x="97" y="118" stroke="black" font-family="Source Code Pro">(1, 1)</text>
+  <text x="15" y="198" stroke="black" font-family="Source Code Pro">(0, 2)</text>
+  <text x="97" y="198" stroke="black" font-family="Source Code Pro">(1, 2)</text>
+  <text x="179" y="198" stroke="black" font-family="Source Code Pro">(2, 2)</text>
+</svg>
